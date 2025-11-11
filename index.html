@@ -1,7 +1,13 @@
----
-layout: default
-title: Website
----
-
-# Welcome to GK Learn Study
-Your hub for general knowledge and learning content!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  {% include header.html %}
+  <main>
+    {{ content }}
+  </main>
+  {% include footer.html %}
+</body>
+</html>
