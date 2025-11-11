@@ -1,0 +1,7 @@
+---
+layout: default
+title: Home
+---
+
+# Welcome to GK Learn Study
+Your hub for general knowledge and learning content!
