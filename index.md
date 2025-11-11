@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Website
 ---
 
 # Welcome to GK Learn Study
